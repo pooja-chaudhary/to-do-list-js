@@ -1,5 +1,5 @@
 # to-do-list-js
-#### [Click here to check it out](https://github.com/pooja-chaudhary/to-do-list-js)
+#### [Click here to check it out](https://pooja-chaudhary.github.io/to-do-list-js/)
 
 This is a ToDo List designed using javaScript and Ejs Template. You can use these to assign your daily work related task and maybe shopping or eating related task and once you are done with that you strick through it to indicate completion of the task.
 
